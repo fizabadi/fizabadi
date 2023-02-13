@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 # 📈 Activity
 [![Fiza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fizabadi&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/fizabadi/github-readme-activity-graph)
 
-# Leetcode Stats 🏆
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/anish_mathakiya?ext=heatmap)
 
 
 
