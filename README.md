@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - 💻 Things That i know :-
      JAVA | Spring | C | C++ | HTML | CSS | JAVASCRIPT | KOTLIN | MongoDB
 - 💬 Ask me about any tech realated stuff.
-- Here is My PortFolio Site [Portfolio - Anish Mathakiya](https://techyportfolio.netlify.app/)
-- 😄 Pronouns: He/His 
+- Here is My PortFolio Site [Portfolio - Fiza Badi](https://techportfolionetlify.netlify.app/)
+- 😄 Pronouns: She/Her
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishmathakiya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiza-badi-592668260/)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%green) ![MySQL](https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=MySQL&logoColor=%23F7DF1E)
